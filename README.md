@@ -23,7 +23,6 @@
 - *"In 1994, mathematician and computer scientist Peter Shor developed an algorithm that showed how a quantum computer could factorize large numbers exponentially faster than any known classical algorithm. This algorithm, known as Shor's Algorithm, has significant implications for cryptography."*
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://instagram.com/_rupendrasinghrajawat_" target="blank"></a>
@@ -31,6 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" color="white"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="r"  width="40" height="40"/>
