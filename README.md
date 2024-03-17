@@ -1,5 +1,3 @@
-# AboutMe
-
 <h1 align="center">Hi 👋, I'm Sujal</h1>
 <h3 align="center">i am a competitive coder ☕ and Software Engineer 🧑🏼‍💻.</h3>
 
