@@ -1,5 +1,5 @@
 # AboutMe
-                                            i am Sujal , i am a competitive coder ☕ and Software Engineer 🧑🏼‍💻.
+i am Sujal , i am a competitive coder ☕ and Software Engineer 🧑🏼‍💻.
 
 <h1 align="center">Hi 👋, I'm Sujal</h1>
 
